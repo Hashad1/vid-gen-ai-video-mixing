@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "github.com/supermemoryai/supermemory-mcp": {
+      "command": "npx wrangler dev",
+      "cwd": "supermemory-mcp",
+      "env": {
+        "SUPERMEMORY_API_KEY": "sm_78WCH5m6LcFHwBzec8M6pN_UEiiStgduUKpzcLrMoZKdOkVFsKdxomTwumOKgZENlsVpvLFFObOywoWMlcUbCcQ"
+      }
+    },
+    "github.com/Operative-Sh/web-eval-agent": {
+      "command": "uvx",
+      "args": [
+        "--refresh-package",
+        "webEvalAgent",
+        "--from",
+        "git+https://github.com/Operative-Sh/web-eval-agent.git",
+        "webEvalAgent"
+      ],
+      "env": {
+        "OPERATIVE_API_KEY": "op-AEaKDjB_4q8y_V7H9gEetRwEHvMmfH2fKVTaYzY-VQ0"
+      },
+      "shell": true
+    }
+  }
+}
