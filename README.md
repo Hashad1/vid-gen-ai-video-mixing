@@ -5,6 +5,16 @@ Built by https://www.blackbox.ai
 
 # README.md for Vid-gen
 
+## 📊 Application Status Report
+
+**📄 Comprehensive Application Status Report Available**: [تقرير حالة التطبيق الشامل](./تقرير_حالة_التطبيق.md) *(in Arabic)*
+
+For a detailed overview of the current application state, features, technical stack, and deployment options, please refer to the comprehensive status report above.
+
+**Quick Status**: ✅ Fully Operational | Version: v2.1.0 | Last Updated: September 30, 2024
+
+---
+
 ## Project Overview
 Vid-gen is a powerful project built to integrate advanced video mixing, workflow systems, and AI-driven content creation features into a cohesive platform named مُبدع AI. It combines various AI services from Google and other providers, making it an all-in-one solution for creating, managing, and enhancing multimedia content.
 
@@ -93,6 +103,24 @@ Vid-gen/
 │   ├── deploy.sh               # Automated deployment script
 └── docker-compose.yml          # Docker composition file for service orchestration
 ```
+
+## 📚 Documentation
+
+### Main Documentation Files
+
+- **[تقرير حالة التطبيق الشامل](./تقرير_حالة_التطبيق.md)** - Comprehensive Application Status Report *(NEW)*
+- **[الملخص التنفيذي الشامل](./الملخص_التنفيذي_الشامل.md)** - Executive Summary and Integration Plan
+- **[خطة التطوير والتكامل الشاملة](./خطة_التطوير_والتكامل_الشاملة.md)** - Development and Integration Plan
+- **[تقرير تحليل مشروع مُبدع AI](./تقرير_تحليل_مشروع_مُبدع_AI.md)** - Project Analysis Report
+
+### Application-Specific Documentation (in `mubdi-ai/`)
+
+- **[README.md](./mubdi-ai/README.md)** - Main Application Documentation
+- **[FINAL_REPORT.md](./mubdi-ai/FINAL_REPORT.md)** - Final Project Report
+- **[PROJECT_SUMMARY.md](./mubdi-ai/PROJECT_SUMMARY.md)** - Project Summary
+- **[COMPREHENSIVE_REVIEW_REPORT.md](./mubdi-ai/COMPREHENSIVE_REVIEW_REPORT.md)** - Comprehensive Review
+- **[DEPLOYMENT_SUMMARY.md](./mubdi-ai/DEPLOYMENT_SUMMARY.md)** - Deployment Options Summary
+- **[USAGE_TRACKING_SYSTEM_REPORT.md](./mubdi-ai/USAGE_TRACKING_SYSTEM_REPORT.md)** - Usage Tracking System
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
